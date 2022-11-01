@@ -5,26 +5,31 @@ Simply copy-paste the email you got from when2work and input it into a text file
 
 
 When you copy-paste your schedule, it should look something like this:
+<br>  
+Tuesday, Nov 1, 2022 - 11am to 12pm<br>
+Spaceplane Pilot - USS Enterpise - Bridge<br>
+USS Enterpise<br>
+<br>
+Tuesday, Nov 1, 2022 - 12pm to 1pm<br>
+Spaceplane Pilot - USS Enterpise - Bridge<br>
+USS Enterpise<br>
+<br>
+Tuesday, Nov 2, 2022 - 3am to 4am<br>
+Spaceplane Pilot - USS Enterpise - Bridge<br>
+USS Enterpise<br>
+<br><br><br>
+<strong>Things to do:</strong>
 
-Tuesday, Nov 1, 2022 - 11am to 12pm
-Spaceplane Pilot - USS Enterpise - Bridge
-USS Enterpise
-
-Tuesday, Nov 1, 2022 - 12pm to 1pm
-Spaceplane Pilot - USS Enterpise - Bridge
-USS Enterpise
-
-Tuesday, Nov 2, 2022 - 3am to 4am
-Spaceplane Pilot - USS Enterpise - Bridge
-USS Enterpise
-
-
-Things to do:
 Maybe change it so it's not text.txt for the input file, and instead something more descriptive.
-Edit shift length so it's not all a bunch of 1-hour shifts
-Edit how time is handled so shifts off the hour are handled fine.
 
-Far future things to do:
+Edit shift length so it's not all a bunch of 1-hour shifts
+
+Edit how time is handled so shifts off the hour are handled fine.
+<br><br><br>
+<strong>Far future things to do:</strong>
+
 Auto import from a defined email?
+
 Auto import to a defined calendar?
+
 Increase Warp speed?
