@@ -1,7 +1,7 @@
 # AutoFormatterForEasyImportation
 This is a little bash script that takes When 2 work schedules and converts them into a CSV that can be input into google calendar easily.
 It currently only works when shifts are given out in hour-long chunks on the hour. 
-Simply copy-paste the email you got from when2work and input it into a text file named text.txt. 
+Simply copy-paste the email you got from when2work and input it into a text file named calInput.txt in the same file as w2wformat.sh. 
 
 
 When you copy-paste your schedule, it should look something like this:
