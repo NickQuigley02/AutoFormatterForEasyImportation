@@ -20,7 +20,7 @@ USS Enterpise<br>
 <br><br><br>
 <strong>Things to do:</strong>
 
-Maybe change it so it's not text.txt for the input file, and instead something more descriptive.
+Stop the weird STDOUT it's giving
 
 Edit shift length so it's not all a bunch of 1-hour shifts
 
@@ -29,6 +29,8 @@ Edit how time is handled so shifts off the hour are handled fine.
 <strong>Far future things to do:</strong>
 
 Auto import from a defined email?
+
+Variable input?
 
 Auto import to a defined calendar?
 
