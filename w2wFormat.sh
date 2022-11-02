@@ -9,5 +9,3 @@ date "+%D" --file=date.txt > formatteddate.txt
 echo "Subject,Start Date,Start Time" > Calendar.txt
 
 paste -d , formattedsubject.txt formatteddate.txt formattedtime.txt >> Calendar.txt
-
-cat formattedsubject.txt formatteddate.txt 
