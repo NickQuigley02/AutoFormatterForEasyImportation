@@ -20,8 +20,6 @@ USS Enterpise<br>
 <br><br><br>
 <strong>Things to do:</strong>
 
-Stop the weird STDOUT it's giving
-
 Edit shift length so it's not all a bunch of 1-hour shifts
 
 Edit how time is handled so shifts off the hour are handled fine.
